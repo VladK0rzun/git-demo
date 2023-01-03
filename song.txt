@@ -3,13 +3,11 @@ wall of shields
 standing strong
 on this their chosen battle field
 
-<<<<<<< HEAD
+
 from the lines
 shield by shield
 side by side
 we're marching into destiny
 ---------------------------
-=======
-From the lines
-Shield by shield
->>>>>>> 57b1f39a1415e59d265a6d95e2fdfc1d58938efa
+
+sdsdsdasczdc
